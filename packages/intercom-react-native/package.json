@@ -1,5 +1,5 @@
 {
-  "name": "config-plugin-react-native-intercom",
+  "name": "@georgestech/config-plugin-react-native-intercom",
   "version": "1.10.1",
   "description": "Config plugin for intercom-react-native package",
   "main": "build/withIntercom.js",
@@ -33,7 +33,7 @@
     "preset": "expo-module-scripts"
   },
   "dependencies": {
-    "@expo/config-plugins": "^5.0.4",
+    "@expo/config-plugins": "6.0.0",
     "semver": "^7.3.8"
   },
   "peerDependencies": {
